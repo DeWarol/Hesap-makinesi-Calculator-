@@ -1,0 +1,6 @@
+print("işelemler için lütfen aşağıdaki seçeneklerden birini seçiniz:")
+print("1. Toplama")
+print("2. Çıkarma")
+print("3. çarpma")
+print("4. bölme")
+secim = input("seçiminizi giriniz (1/2/3/4): ")
